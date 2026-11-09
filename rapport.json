@@ -1,0 +1,30 @@
+{
+    "statistiques_transactions": {
+        "690000001": {
+            "recu": 750000,
+            "envoye": 15000
+        },
+        "690000002": {
+            "recu": 15000,
+            "envoye": 755000
+        },
+        "690000003": {
+            "recu": 5000,
+            "envoye": 0
+        },
+        "": {
+            "recu": 0,
+            "envoye": 0
+        }
+    },
+    "transactions_suspectes": [
+        {
+            "id": "6",
+            "date": "03/11/2026",
+            "expediteur": "690000002",
+            "destinataire": "690000001",
+            "montant": "750000",
+            "type": "transfert"
+        }
+    ]
+}
